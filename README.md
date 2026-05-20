@@ -125,13 +125,13 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zakiulfahmijailani&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakiulfahmijailani&layout=compact&theme=github_dark&hide_border=true&count_private=true)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzakiulfahmijailani&query=public_repos&label=Public%20Repos&color=181717&logo=github&style=for-the-badge)](https://github.com/zakiulfahmijailani?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/zakiulfahmijailani?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/zakiulfahmijailani?tab=followers)
+[![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzakiulfahmijailani&query=public_gists&label=Gists&color=181717&logo=github&style=for-the-badge)](https://gist.github.com/zakiulfahmijailani)
 
 </div>
 
