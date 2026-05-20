@@ -23,7 +23,6 @@ Researcher and lecturer with a focus on **Agentic GeoAI**, **spatial data scienc
 Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik untuk Perencanaan Pendidikan*), an agentic geospatial AI system for education planning in **Nusa Tenggara Timur (NTT)**. My research interest lies in operationalizing vector embeddings and graph-based spatial reasoning for real-world policy and planning problems.
 
 > 🎓 **MSc** in Geo-Information Science — Wageningen University & Research (ITC), Netherlands  
-> 🔭 Currently pursuing **PhD** — Geospatial AI & Digital Humanities  
 > 🏛️ **Faculty Member** — Bakrie University, South Jakarta  
 > 🔬 **Founder** — GeoSDS Lab (Spatial Data Science Laboratory)
 
