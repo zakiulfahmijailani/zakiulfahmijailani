@@ -63,10 +63,11 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 
 ## Research Grants
 
-> 💰 Total secured funding: **IDR 472,400,000** (~€23,788 / ~$28,046)
+> 💰 Total secured funding: **USD 25,000 + IDR 48,400,000** (~USD 27,965 equivalent)
 
 | Year | Project | Funder | Role | Amount |
 |---|---|---|---|---|
+| 2026 | **Empowering Rural Communities in Indonesia through AI-Driven Agricultural Solutions** | [IEEE Computer Society](http://dx.doi.org/10.13039/100020519) (Washington D.C., US) | Principal Investigator | **USD 25,000** (≈ IDR 404,000,000) |
 | 2025–2026 | Land Use Classification & Change Detection in Indonesia's Urban Centers Using CNN and Sentinel-2 Imagery | Center for Research & Development, Bakrie University | Principal Investigator | IDR 20,000,000 |
 | 2023 | Geospatial Accessibility and Response Time Analysis for Emergency Ambulance Services in Jakarta | Open Mapping Hub Asia Pacific & OpenStreetMap Indonesia | Principal Investigator | IDR 28,000,000 |
 
