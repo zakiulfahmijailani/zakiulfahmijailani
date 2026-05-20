@@ -9,6 +9,8 @@
 [![Email](https://img.shields.io/badge/Email-zakiul.jailani%40bakrie.ac.id-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zakiul.jailani@bakrie.ac.id)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2171--0533-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2171-0533)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=FgeGr1EAAAAJ&sortby=pubdate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zakiul--fahmi--jailani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakiul-fahmi-jailani/)
+[![Instagram](https://img.shields.io/badge/Instagram-zakiul__fahmi__jailani-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zakiul_fahmi_jailani/?hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-zakiulfahmijailani-181717?style=flat&logo=github)](https://github.com/zakiulfahmijailani)
 [![Website](https://img.shields.io/badge/Website-zaki.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://zakiulfahmijailani.github.io/zaki.github.io/)
 [![Location](https://img.shields.io/badge/Jakarta%2C_Indonesia-🇮🇩-lightgrey?style=flat)]()</div>
