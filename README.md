@@ -40,7 +40,10 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 
 ## Publications
 
-> 📄 6 peer-reviewed articles · 4 international conferences · [ORCID: 0000-0002-2171-0533](https://orcid.org/0000-0002-2171-0533)
+> 📄 7 peer-reviewed articles & book chapters · 4 international conferences · [ORCID: 0000-0002-2171-0533](https://orcid.org/0000-0002-2171-0533)
+
+**2026**
+- Al Hakim, S., Jailani, Z.F., Siagian, A.H.A.M., Marlina, E., Maryati, I., Apriani, N.F., Saputra, A., Nugroho, C., & Samsudiat. (2026). **Making AI Outputs Match the Intended Goals (Validity).** *Book Chapter*, IGI Global. [DOI: 10.4018/979-8-3373-6935-8.ch001](https://doi.org/10.4018/979-8-3373-6935-8.ch001)
 
 **2025**
 - Jailani, Z.F., Syumanjaya, R.B., Saputra, R.D., & Rafi, H. (2025). **SiagaJakarta: An Agentic GeoAI Framework for Autonomous Geospatial Analysis of Emergency Services.** *Proc. 2nd ICoCICs*, IEEE Xplore. [DOI: 10.1109/ICoCICs68032.2025.11384057](https://doi.org/10.1109/ICoCICs68032.2025.11384057)
