@@ -57,7 +57,7 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 - Jailani, Z.F., Nurmadewi, D., Sumanjaya, R.B., & Manik, N.K.S. (2023). **Mapping the Golden Hour: A Spatiotemporal Analysis of Ambulance Response Time in Urban Jakarta.** *Geosains Kutai Basin, 6*(2), 98–104. [DOI: 10.30872/geofisunmul.v6i2.1188](https://doi.org/10.30872/geofisunmul.v6i2.1188)
 
 **2021**
-- Jailani, Z.F., Verweij, P.J.F.M., van der Wal, J.T., & van Lammeren, R. (2021). **A Machine Learning Approach to Study Tourist Interests and Predict Tourism Demand on Bonaire Island from Social Media Data.** *Proc. 13th ICTS*, pp. 173–178, IEEE. [DOI: 10.1109/ICTS50557.2021.9608216](https://doi.org/10.1109/ICTS50557.2021.9608216)
+- Jailani, Z.F., Verweij, P., van der Wal, J.T., & van Lammeren, R. (2021). **A Machine Learning Approach to Study Tourist Interests and Predict Tourism Demand on Bonaire Island from Social Media Data.** *Proc. 13th ICTS*, IEEE. [DOI: 10.1109/ICTS52701.2021.9608497](https://doi.org/10.1109/ICTS52701.2021.9608497)
 
 **2019**
 - Jailani, Z.F. (2019). **Assessing Indonesia Spatial Data Infrastructure Using R for Disaster Management.** *International Journal on Advanced Science, Engineering, and Information Technology, 9*(6). [DOI: 10.18517/ijaseit.9.6.4173](https://doi.org/10.18517/ijaseit.9.6.4173)
