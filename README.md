@@ -43,10 +43,8 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 
 > 📄 6 peer-reviewed articles · 4 international conferences · [ORCID: 0000-0002-2171-0533](https://orcid.org/0000-0002-2171-0533)
 
-### Journal Articles & Conference Proceedings
-
 **2025**
-- Jailani, Z.F., Syumanjaya, R.B., Saputra, R.D., & Rafi, H. (2025). **SiagaJakarta: An Agentic GeoAI Framework for Autonomous Geospatial Analysis of Emergency Services.** *Proceedings of the 2nd ICoCICs*, IEEE Xplore. [DOI: 10.1109/ICoCICs68032.2025.11384057](https://doi.org/10.1109/ICoCICs68032.2025.11384057)
+- Jailani, Z.F., Syumanjaya, R.B., Saputra, R.D., & Rafi, H. (2025). **SiagaJakarta: An Agentic GeoAI Framework for Autonomous Geospatial Analysis of Emergency Services.** *Proc. 2nd ICoCICs*, IEEE Xplore. [DOI: 10.1109/ICoCICs68032.2025.11384057](https://doi.org/10.1109/ICoCICs68032.2025.11384057)
 
 - Jailani, Z.F. et al. (2025). **Hybrid Machine Learning Predicts Flooding Using LSTM And Random Forests On Geodata.** *INTECOMS: Journal of Information Technology and Computer Science, 8*(1). [DOI: 10.31539/intecoms.v8i1.13991](https://doi.org/10.31539/intecoms.v8i1.13991)
 
@@ -61,6 +59,27 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 
 **2019**
 - Jailani, Z.F. (2019). **Assessing Indonesia Spatial Data Infrastructure Using R for Disaster Management.** *International Journal on Advanced Science, Engineering, and Information Technology, 9*(6). [DOI: 10.18517/ijaseit.9.6.4173](https://doi.org/10.18517/ijaseit.9.6.4173)
+
+---
+
+## Research Grants
+
+> 💰 Total secured funding: **IDR 472,400,000** (~€23,788 / ~$28,046)
+
+| Year | Project | Funder | Role | Amount |
+|---|---|---|---|---|
+| 2025–2026 | Land Use Classification & Change Detection in Indonesia's Urban Centers Using CNN and Sentinel-2 Imagery | Center for Research & Development, Bakrie University | Principal Investigator | IDR 20,000,000 |
+| 2023 | Geospatial Accessibility and Response Time Analysis for Emergency Ambulance Services in Jakarta | Open Mapping Hub Asia Pacific & OpenStreetMap Indonesia | Principal Investigator | IDR 28,000,000 |
+
+---
+
+## Awards & Honors
+
+| Year | Award | Organizer |
+|---|---|---|
+| 2023 | 🥇 **1st Place** — Ideathon Tons-Of-Ideas Competition | Ministry of State Apparatus Utilization & Bureaucratic Reform (PANRB) + USAID ERAT |
+| 2023 | **Best of 10** — LPDP Business Competition | Indonesia Endowment Funds for Education (LPDP) |
+| 2022 | **5th Place** — BSI Entrepreneurial Talent | Bank Syariah Indonesia |
 
 ---
 
