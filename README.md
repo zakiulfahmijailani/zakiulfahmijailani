@@ -129,7 +129,7 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 
 <div align="center">
 
-![Zakiul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakiulfahmijailani&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zakiulfahmijailani&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakiulfahmijailani&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
