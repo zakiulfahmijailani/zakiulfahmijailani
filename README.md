@@ -54,7 +54,7 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 - Nurmadewi, D., Jailani, Z.F., & Manik, N.K.S. (2024). **Comparison of the Performance of the VADER and RoBERTa Algorithms on Twitter.** *SISTEMASI, 13*(4). [DOI: 10.32520/stmsi.v13i4.4198](https://doi.org/10.32520/stmsi.v13i4.4198)
 
 **2023**
-- Jailani, Z.F., Nurmadewi, D., Sumanjaya, R.B., & Manik, N.K.S. (2023). **Spatio-temporal Analysis of Ambulance Services in Densely Populated Urban Area: A Case Study in Jakarta.** *Geosains Kutai Basin, 6*(2), 98–104. [DOI: 10.30872/geofisunmul.v6i2.1188](https://doi.org/10.30872/geofisunmul.v6i2.1188)
+- Jailani, Z.F., Nurmadewi, D., Sumanjaya, R.B., & Manik, N.K.S. (2023). **Mapping the Golden Hour: A Spatiotemporal Analysis of Ambulance Response Time in Urban Jakarta.** *Geosains Kutai Basin, 6*(2), 98–104. [DOI: 10.30872/geofisunmul.v6i2.1188](https://doi.org/10.30872/geofisunmul.v6i2.1188)
 
 **2021**
 - Jailani, Z.F., Verweij, P.J.F.M., van der Wal, J.T., & van Lammeren, R. (2021). **A Machine Learning Approach to Study Tourist Interests and Predict Tourism Demand on Bonaire Island from Social Media Data.** *Proc. 13th ICTS*, pp. 173–178, IEEE. [DOI: 10.1109/ICTS50557.2021.9608216](https://doi.org/10.1109/ICTS50557.2021.9608216)
