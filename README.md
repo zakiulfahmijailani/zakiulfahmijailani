@@ -6,7 +6,8 @@
 
 *Geospatial AI · Natural Language Processing · Educational Technology*
 
-[![Email](https://img.shields.io/badge/Email-zakiulfahmi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zakiulfahmi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zakiul.jailani%40bakrie.ac.id-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zakiul.jailani@bakrie.ac.id)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2171--0533-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2171-0533)
 [![GitHub](https://img.shields.io/badge/GitHub-zakiulfahmijailani-181717?style=flat&logo=github)](https://github.com/zakiulfahmijailani)
 [![Website](https://img.shields.io/badge/Website-zaki.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://zakiulfahmijailani.github.io/zaki.github.io/)
 [![Location](https://img.shields.io/badge/Jakarta%2C_Indonesia-🇮🇩-lightgrey?style=flat)]()
@@ -21,9 +22,10 @@ Researcher and lecturer with a focus on **Agentic GeoAI**, **spatial data scienc
 
 Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik untuk Perencanaan Pendidikan*), an agentic geospatial AI system for education planning in **Nusa Tenggara Timur (NTT)**. My research interest lies in operationalizing vector embeddings and graph-based spatial reasoning for real-world policy and planning problems.
 
-> 🎓 **MSc** in Geoinformation Science and Earth Observation (ITC, University of Twente)  
+> 🎓 **MSc** in Geo-Information Science — Wageningen University & Research (ITC), Netherlands  
 > 🔭 Currently pursuing **PhD** — Geospatial AI & Digital Humanities  
-> 🏛️ **Lecturer** in Data Science, Statistics & Big Data Processing
+> 🏛️ **Faculty Member** — Bakrie University, South Jakarta  
+> 🔬 **Founder** — GeoSDS Lab (Spatial Data Science Laboratory)
 
 ---
 
@@ -34,6 +36,31 @@ Currently developing **SIGAPP** (*Sistem Informasi Geospatial berbasis Agentik u
 - **NLP & LLMs** applied to Indonesian administrative and education data
 - **PostGIS + LLM integration** for advanced spatial operations
 - **Education policy analytics** with geospatial context
+
+---
+
+## Publications
+
+> 📄 6 peer-reviewed articles · 4 international conferences · [ORCID: 0000-0002-2171-0533](https://orcid.org/0000-0002-2171-0533)
+
+### Journal Articles & Conference Proceedings
+
+**2025**
+- Jailani, Z.F., Syumanjaya, R.B., Saputra, R.D., & Rafi, H. (2025). **SiagaJakarta: An Agentic GeoAI Framework for Autonomous Geospatial Analysis of Emergency Services.** *Proceedings of the 2nd ICoCICs*, IEEE Xplore. [DOI: 10.1109/ICoCICs68032.2025.11384057](https://doi.org/10.1109/ICoCICs68032.2025.11384057)
+
+- Jailani, Z.F. et al. (2025). **Hybrid Machine Learning Predicts Flooding Using LSTM And Random Forests On Geodata.** *INTECOMS: Journal of Information Technology and Computer Science, 8*(1). [DOI: 10.31539/intecoms.v8i1.13991](https://doi.org/10.31539/intecoms.v8i1.13991)
+
+**2024**
+- Nurmadewi, D., Jailani, Z.F., & Manik, N.K.S. (2024). **Comparison of the Performance of the VADER and RoBERTa Algorithms on Twitter.** *SISTEMASI, 13*(4). [DOI: 10.32520/stmsi.v13i4.4198](https://doi.org/10.32520/stmsi.v13i4.4198)
+
+**2023**
+- Jailani, Z.F., Nurmadewi, D., Sumanjaya, R.B., & Manik, N.K.S. (2023). **Spatio-temporal Analysis of Ambulance Services in Densely Populated Urban Area: A Case Study in Jakarta.** *Geosains Kutai Basin, 6*(2), 98–104. [DOI: 10.30872/geofisunmul.v6i2.1188](https://doi.org/10.30872/geofisunmul.v6i2.1188)
+
+**2021**
+- Jailani, Z.F., Verweij, P.J.F.M., van der Wal, J.T., & van Lammeren, R. (2021). **A Machine Learning Approach to Study Tourist Interests and Predict Tourism Demand on Bonaire Island from Social Media Data.** *Proc. 13th ICTS*, pp. 173–178, IEEE. [DOI: 10.1109/ICTS50557.2021.9608216](https://doi.org/10.1109/ICTS50557.2021.9608216)
+
+**2019**
+- Jailani, Z.F. (2019). **Assessing Indonesia Spatial Data Infrastructure Using R for Disaster Management.** *International Journal on Advanced Science, Engineering, and Information Technology, 9*(6). [DOI: 10.18517/ijaseit.9.6.4173](https://doi.org/10.18517/ijaseit.9.6.4173)
 
 ---
 
